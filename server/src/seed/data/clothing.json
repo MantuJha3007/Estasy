@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Men's Classic T-Shirt",
+    "slug": "mens-classic-t-shirt",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Casual Wear",
+    "description": "A classic everyday t-shirt made of 100% cotton.",
+    "basePrice": 25,
+    "images": ["https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "White", "stock": 50 },
+      { "kind": "ClothingVariant", "size": "L", "color": "White", "stock": 30 }
+    ]
+  },
+  {
+    "name": "Men's Slim Fit Jeans",
+    "slug": "mens-slim-fit-jeans",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Casual Wear",
+    "description": "Classic blue slim fit jeans for everyday wear.",
+    "basePrice": 80,
+    "images": ["https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "32", "color": "Blue", "stock": 20 },
+      { "kind": "ClothingVariant", "size": "34", "color": "Blue", "stock": 30 }
+    ]
+  },
+  {
+    "name": "Men's Tailored Suit",
+    "slug": "mens-tailored-suit",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Formal & Business Wear",
+    "description": "A sharp two-piece tailored suit for the office and special events.",
+    "basePrice": 250,
+    "images": ["https://images.unsplash.com/photo-1594938291221-94f18cbb5660?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Navy", "stock": 10 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Navy", "stock": 15 }
+    ]
+  },
+  {
+    "name": "Men's Oxford Dress Shirt",
+    "slug": "mens-oxford-dress-shirt",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Formal & Business Wear",
+    "description": "Crisp white Oxford dress shirt.",
+    "basePrice": 65,
+    "images": ["https://images.unsplash.com/photo-1596755094514-f87e32f85e2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "White", "stock": 25 },
+      { "kind": "ClothingVariant", "size": "L", "color": "White", "stock": 20 }
+    ]
+  },
+  {
+    "name": "Men's Performance Joggers",
+    "slug": "mens-performance-joggers",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Activewear & Athleisure",
+    "description": "Comfortable joggers designed for movement and workouts.",
+    "basePrice": 55,
+    "images": ["https://images.unsplash.com/photo-1512374382149-233c42b6a83b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Black", "stock": 30 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Black", "stock": 35 }
+    ]
+  },
+  {
+    "name": "Men's Athletic Hoodie",
+    "slug": "mens-athletic-hoodie",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Activewear & Athleisure",
+    "description": "Lightweight, moisture-wicking hoodie for active days.",
+    "basePrice": 70,
+    "images": ["https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Grey", "stock": 25 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Grey", "stock": 20 }
+    ]
+  },
+  {
+    "name": "Men's Leather Bomber Jacket",
+    "slug": "mens-leather-bomber-jacket",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Outerwear",
+    "description": "Classic leather bomber jacket for a rugged look.",
+    "basePrice": 180,
+    "images": ["https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Brown", "stock": 12 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Brown", "stock": 8 }
+    ]
+  },
+  {
+    "name": "Men's Winter Parka",
+    "slug": "mens-winter-parka",
+    "category": "clothing",
+    "subcategory": "Men",
+    "itemType": "Outerwear",
+    "description": "Heavy winter parka to keep you warm in extreme weather.",
+    "basePrice": 220,
+    "images": ["https://images.unsplash.com/photo-1536964956108-54b9f0edcb4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Black", "stock": 15 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Navy", "stock": 10 }
+    ]
+  },
+  {
+    "name": "Women's Casual Blouse",
+    "slug": "womens-casual-blouse",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Casual & Everyday",
+    "description": "A versatile blouse perfect for both work and weekends.",
+    "basePrice": 45,
+    "images": ["https://images.unsplash.com/photo-1564222256577-45e728f2c611?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "S", "color": "White", "stock": 35 },
+      { "kind": "ClothingVariant", "size": "M", "color": "White", "stock": 20 }
+    ]
+  },
+  {
+    "name": "Women's Summer Sundress",
+    "slug": "womens-summer-sundress",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Casual & Everyday",
+    "description": "Lightweight, breathable floral summer dress.",
+    "basePrice": 55,
+    "images": ["https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "S", "color": "Yellow", "stock": 25 },
+      { "kind": "ClothingVariant", "size": "M", "color": "Yellow", "stock": 15 }
+    ]
+  },
+  {
+    "name": "Women's Evening Cocktail Dress",
+    "slug": "womens-evening-cocktail-dress",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Formal & Evening Wear",
+    "description": "Elegant cocktail dress for special occasions.",
+    "basePrice": 140,
+    "images": ["https://images.unsplash.com/photo-1566160983995-1718816f1d06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "S", "color": "Black", "stock": 12 },
+      { "kind": "ClothingVariant", "size": "M", "color": "Black", "stock": 10 }
+    ]
+  },
+  {
+    "name": "Women's Tailored Pantsuit",
+    "slug": "womens-tailored-pantsuit",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Formal & Evening Wear",
+    "description": "Sophisticated tailored pantsuit for professional settings.",
+    "basePrice": 195,
+    "images": ["https://images.unsplash.com/photo-1600863028302-3715df5a33c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Grey", "stock": 15 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Grey", "stock": 8 }
+    ]
+  },
+  {
+    "name": "Women's High-Waisted Yoga Pants",
+    "slug": "womens-high-waisted-yoga-pants",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Activewear & Loungewear",
+    "description": "Stretchy, comfortable yoga pants for the gym or home.",
+    "basePrice": 60,
+    "images": ["https://images.unsplash.com/photo-1518310383802-640c2de311b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "S", "color": "Black", "stock": 40 },
+      { "kind": "ClothingVariant", "size": "M", "color": "Black", "stock": 35 }
+    ]
+  },
+  {
+    "name": "Women's Cozy Knit Set",
+    "slug": "womens-cozy-knit-set",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Activewear & Loungewear",
+    "description": "Matching knit set for ultimate lounging comfort.",
+    "basePrice": 85,
+    "images": ["https://images.unsplash.com/photo-1598554747436-c9293d6a588f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "S", "color": "Beige", "stock": 20 },
+      { "kind": "ClothingVariant", "size": "M", "color": "Beige", "stock": 25 }
+    ]
+  },
+  {
+    "name": "Women's Structured Blazer",
+    "slug": "womens-structured-blazer",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Outerwear",
+    "description": "Structured office blazer to elevate any outfit.",
+    "basePrice": 110,
+    "images": ["https://images.unsplash.com/photo-1608228068998-5215009a25b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "M", "color": "Navy", "stock": 18 },
+      { "kind": "ClothingVariant", "size": "L", "color": "Navy", "stock": 14 }
+    ]
+  },
+  {
+    "name": "Women's Winter Puffer Jacket",
+    "slug": "womens-winter-puffer-jacket",
+    "category": "clothing",
+    "subcategory": "Women",
+    "itemType": "Outerwear",
+    "description": "Warm and stylish puffer jacket for the cold season.",
+    "basePrice": 150,
+    "images": ["https://images.unsplash.com/photo-1550995694-3f5f4a7e1bd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ClothingVariant", "size": "S", "color": "White", "stock": 22 },
+      { "kind": "ClothingVariant", "size": "M", "color": "Black", "stock": 30 }
+    ]
+  }
+]

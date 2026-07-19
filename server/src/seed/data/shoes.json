@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Men's Classic White Sneakers",
+    "slug": "mens-classic-white-sneakers",
+    "category": "shoe",
+    "subcategory": "Men",
+    "itemType": "Casual Footwear",
+    "description": "Clean, versatile white canvas sneakers that go with everything.",
+    "basePrice": 85,
+    "images": ["https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "9", "color": "White", "stock": 40 },
+      { "kind": "ShoeVariant", "size": "10", "color": "White", "stock": 45 }
+    ]
+  },
+  {
+    "name": "Women's Summer Sandals",
+    "slug": "womens-summer-sandals",
+    "category": "shoe",
+    "subcategory": "Women",
+    "itemType": "Casual Footwear",
+    "description": "Comfortable slip-on sandals for warm summer days.",
+    "basePrice": 50,
+    "images": ["https://images.unsplash.com/photo-1560343776-97e7d202ff0e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "7", "color": "Tan", "stock": 30 },
+      { "kind": "ShoeVariant", "size": "8", "color": "Tan", "stock": 25 }
+    ]
+  },
+  {
+    "name": "Men's Leather Oxford Shoes",
+    "slug": "mens-leather-oxford-shoes",
+    "category": "shoe",
+    "subcategory": "Men",
+    "itemType": "Formal (Men)",
+    "description": "Premium leather oxfords with closed lacing for suits.",
+    "basePrice": 140,
+    "images": ["https://images.unsplash.com/photo-1614252339460-e1423438690f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "9", "color": "Brown", "stock": 20 },
+      { "kind": "ShoeVariant", "size": "10", "color": "Black", "stock": 15 }
+    ]
+  },
+  {
+    "name": "Men's Classic Brogues",
+    "slug": "mens-classic-brogues",
+    "category": "shoe",
+    "subcategory": "Men",
+    "itemType": "Formal (Men)",
+    "description": "Elegant leather brogues with decorative perforations.",
+    "basePrice": 155,
+    "images": ["https://images.unsplash.com/photo-1533867617858-e7dd0ae8a6b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "10", "color": "Tan", "stock": 12 },
+      { "kind": "ShoeVariant", "size": "11", "color": "Tan", "stock": 10 }
+    ]
+  },
+  {
+    "name": "Women's Classic Stilettos",
+    "slug": "womens-classic-stilettos",
+    "category": "shoe",
+    "subcategory": "Women",
+    "itemType": "Formal (Women)",
+    "description": "Elegant stiletto heels perfect for evenings out.",
+    "basePrice": 120,
+    "images": ["https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "7", "color": "Black", "stock": 20 },
+      { "kind": "ShoeVariant", "size": "8", "color": "Black", "stock": 25 }
+    ]
+  },
+  {
+    "name": "Women's Elegant Flats",
+    "slug": "womens-elegant-flats",
+    "category": "shoe",
+    "subcategory": "Women",
+    "itemType": "Formal (Women)",
+    "description": "Dressy and chic flats suitable for the office or evening.",
+    "basePrice": 85,
+    "images": ["https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "6", "color": "Nude", "stock": 15 },
+      { "kind": "ShoeVariant", "size": "7", "color": "Nude", "stock": 20 }
+    ]
+  },
+  {
+    "name": "Men's Chelsea Boots",
+    "slug": "mens-chelsea-boots",
+    "category": "shoe",
+    "subcategory": "Men",
+    "itemType": "Boots",
+    "description": "Versatile suede Chelsea boots for a rugged yet refined look.",
+    "basePrice": 160,
+    "images": ["https://images.unsplash.com/photo-1638247025967-b4e38f787b76?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "9", "color": "Brown Suede", "stock": 18 },
+      { "kind": "ShoeVariant", "size": "10", "color": "Brown Suede", "stock": 22 }
+    ]
+  },
+  {
+    "name": "Women's Ankle Booties",
+    "slug": "womens-ankle-booties",
+    "category": "shoe",
+    "subcategory": "Women",
+    "itemType": "Boots",
+    "description": "Stylish leather ankle booties for autumn and winter.",
+    "basePrice": 145,
+    "images": ["https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "7", "color": "Black", "stock": 20 },
+      { "kind": "ShoeVariant", "size": "8", "color": "Black", "stock": 15 }
+    ]
+  },
+  {
+    "name": "Unisex Running Shoes",
+    "slug": "unisex-running-shoes",
+    "category": "shoe",
+    "subcategory": "Unisex",
+    "itemType": "Athletic",
+    "description": "Purpose-built lightweight running shoes for your daily miles.",
+    "basePrice": 130,
+    "images": ["https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "8", "color": "Red/Black", "stock": 35 },
+      { "kind": "ShoeVariant", "size": "10", "color": "Red/Black", "stock": 40 }
+    ]
+  },
+  {
+    "name": "Cross-Trainer Sneakers",
+    "slug": "cross-trainer-sneakers",
+    "category": "shoe",
+    "subcategory": "Unisex",
+    "itemType": "Athletic",
+    "description": "Supportive athletic shoes for intense gym sessions.",
+    "basePrice": 115,
+    "images": ["https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "ShoeVariant", "size": "9", "color": "Neon Green", "stock": 25 },
+      { "kind": "ShoeVariant", "size": "11", "color": "Neon Green", "stock": 20 }
+    ]
+  }
+]

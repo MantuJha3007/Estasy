@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Classic Minimalist Dress Watch",
+    "slug": "classic-minimalist-dress-watch",
+    "category": "watch",
+    "subcategory": "Unisex",
+    "itemType": "Dress Watches",
+    "description": "Minimalist, sleek, and elegant watch featuring a simple face without numbers and a leather band. Slips easily under a dress shirt cuff.",
+    "basePrice": 150,
+    "images": ["https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Brown", "strap": "Leather", "stock": 15 },
+      { "kind": "WatchVariant", "color": "Black", "strap": "Leather", "stock": 10 }
+    ]
+  },
+  {
+    "name": "Elegant Rose Gold Dress Watch",
+    "slug": "elegant-rose-gold-dress-watch",
+    "category": "watch",
+    "subcategory": "Women",
+    "itemType": "Dress Watches",
+    "description": "Delicate and timeless dress watch with a thin leather band.",
+    "basePrice": 130,
+    "images": ["https://images.unsplash.com/photo-1584208124888-3a20b9c799e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Rose Gold", "strap": "Mesh", "stock": 20 }
+    ]
+  },
+  {
+    "name": "Pro Ocean Dive Watch",
+    "slug": "pro-ocean-dive-watch",
+    "category": "watch",
+    "subcategory": "Men",
+    "itemType": "Dive Watches",
+    "description": "Built for extreme water resistance with a rugged metal bracelet, luminous hands, and a rotating bezel to track dive time.",
+    "basePrice": 350,
+    "images": ["https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Silver/Blue", "strap": "Metal", "stock": 25 },
+      { "kind": "WatchVariant", "color": "Silver/Black", "strap": "Metal", "stock": 15 }
+    ]
+  },
+  {
+    "name": "Deep Sea Explorer",
+    "slug": "deep-sea-explorer",
+    "category": "watch",
+    "subcategory": "Men",
+    "itemType": "Dive Watches",
+    "description": "Durable dive watch engineered for the deep sea, featuring maximum visibility and robust construction.",
+    "basePrice": 420,
+    "images": ["https://images.unsplash.com/photo-1622434641406-a158123450f9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Silver", "strap": "Metal", "stock": 12 }
+    ]
+  },
+  {
+    "name": "Vintage Field Watch",
+    "slug": "vintage-field-watch",
+    "category": "watch",
+    "subcategory": "Men",
+    "itemType": "Field & Aviator Watches",
+    "description": "Rugged, highly legible watch with large numbers and a canvas strap. Inspired by military field watches.",
+    "basePrice": 110,
+    "images": ["https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Olive", "strap": "Canvas", "stock": 35 },
+      { "kind": "WatchVariant", "color": "Khaki", "strap": "Canvas", "stock": 20 }
+    ]
+  },
+  {
+    "name": "Pilot's Aviator Watch",
+    "slug": "pilots-aviator-watch",
+    "category": "watch",
+    "subcategory": "Men",
+    "itemType": "Field & Aviator Watches",
+    "description": "Large-dial aviator watch designed for quick legibility in the cockpit.",
+    "basePrice": 195,
+    "images": ["https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Black", "strap": "Leather", "stock": 15 }
+    ]
+  },
+  {
+    "name": "Racing Chronograph",
+    "slug": "racing-chronograph",
+    "category": "watch",
+    "subcategory": "Men",
+    "itemType": "Chronograph Watches",
+    "description": "Sporty chronograph watch with stopwatch functionality and smaller sub-dials on the main face.",
+    "basePrice": 280,
+    "images": ["https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Silver/Black", "strap": "Metal", "stock": 18 }
+    ]
+  },
+  {
+    "name": "Luxury Chronograph",
+    "slug": "luxury-chronograph",
+    "category": "watch",
+    "subcategory": "Men",
+    "itemType": "Chronograph Watches",
+    "description": "Premium chronograph watch with intricate detailing and precision movement.",
+    "basePrice": 450,
+    "images": ["https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Gold", "strap": "Metal", "stock": 5 },
+      { "kind": "WatchVariant", "color": "Silver", "strap": "Metal", "stock": 8 }
+    ]
+  },
+  {
+    "name": "Active Smartwatch",
+    "slug": "active-smartwatch",
+    "category": "watch",
+    "subcategory": "Unisex",
+    "itemType": "Smartwatches & Fitness Trackers",
+    "description": "Digital device that connects to your smartphone to display notifications, track heart rate, and log workouts.",
+    "basePrice": 250,
+    "images": ["https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Black", "strap": "Silicone", "stock": 40 },
+      { "kind": "WatchVariant", "color": "White", "strap": "Silicone", "stock": 35 }
+    ]
+  },
+  {
+    "name": "Slim Fitness Tracker",
+    "slug": "slim-fitness-tracker",
+    "category": "watch",
+    "subcategory": "Unisex",
+    "itemType": "Smartwatches & Fitness Trackers",
+    "description": "Lightweight and slim fitness band for tracking your daily steps and sleep.",
+    "basePrice": 95,
+    "images": ["https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"],
+    "variants": [
+      { "kind": "WatchVariant", "color": "Navy", "strap": "Silicone", "stock": 50 },
+      { "kind": "WatchVariant", "color": "Coral", "strap": "Silicone", "stock": 45 }
+    ]
+  }
+]
